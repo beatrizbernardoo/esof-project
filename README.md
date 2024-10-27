@@ -1,6 +1,8 @@
 
 # Seed You Later Development Report
 
+### Final grade: 16.2/20
+
 ## Members
 
 - Beatriz Alexandra de Almeida Bernardo - 202206097
