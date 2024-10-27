@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#F8EDE9"
+    android:gravity="center"
+    android:padding="15dp"
+    tools:context=".Homepage">
+
+    <ImageView
+        android:id="@+id/welcome"
+        android:layout_width="350dp"
+        android:layout_height="350dp"
+        android:src="@drawable/welcome" />
+
+    <TextView
+        android:textSize="24sp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+    <Button
+        android:id="@+id/button_continue"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="0dp"
+        android:background="@drawable/rounded_button"
+        android:backgroundTint="#678D58"
+        android:text="                    Welcome                    "
+        android:textColor="#FFFF"
+        android:textSize="20dp" />
+
+    <ProgressBar
+        android:id="@+id/progressBar"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:indeterminateTint="#678D58"
+        android:layout_marginTop="30dp"
+        android:visibility="gone" />
+
+</LinearLayout>

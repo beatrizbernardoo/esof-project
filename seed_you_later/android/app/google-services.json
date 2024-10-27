@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "374344505656",
+    "project_id": "seed-you-later",
+    "storage_bucket": "seed-you-later.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:374344505656:android:ae59664b56a7abf116c9cd",
+        "android_client_info": {
+          "package_name": "com.example.seed_you_later"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDIFbvIWG7hLr8xv_BnRAbaZ3N8qb0DWM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
